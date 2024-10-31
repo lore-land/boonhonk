@@ -1,0 +1,6 @@
+[submodule "bone"]
+	path = bone
+	url = https://github.com/lore-land/bone.git
+[submodule "boon"]
+	path = boon
+	url = https://github.com/lore-land/boon.git
